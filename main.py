@@ -1,1 +1,1 @@
-уц
+from PySide6 import QtWidgets
