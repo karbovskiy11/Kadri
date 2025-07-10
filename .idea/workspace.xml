@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1d80ce-0894-4547-9de1-5bdbab04cf52" name="Changes" comment="Create main">
+    <list default="true" id="4f1d80ce-0894-4547-9de1-5bdbab04cf52" name="Changes" comment="Create main.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.ui" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.ui" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "karbovskiy11"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;karbovskiy11&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/karbovskiy11/Kadri.git",
-    "accountId": "9e4562c1-65cb-4bcc-87f0-f72ee0d39928"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/karbovskiy11/Kadri.git&quot;,
+    &quot;accountId&quot;: &quot;9e4562c1-65cb-4bcc-87f0-f72ee0d39928&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2zbQL6oTYBZA9ry28Gf82F3yofT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -143,11 +145,44 @@
       <option name="project" value="LOCAL" />
       <updated>1751999986468</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Create main">
+      <option name="closed" value="true" />
+      <created>1752087089663</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752087089663</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create main">
+      <option name="closed" value="true" />
+      <created>1752087304539</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752087304539</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create main">
+      <option name="closed" value="true" />
+      <created>1752089408407</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1752089408407</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create main.py">
+      <option name="closed" value="true" />
+      <created>1752089492245</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752089492246</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create main" />
+    <MESSAGE value="Create main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create main.py" />
   </component>
 </project>
